@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ScreenRecorder</string>
+    <string name="writeExternalStoragePermissionRequired">This app requires permission for write to external storage.</string>
+    <string name="grant_permission">grant permission</string>
+    <string name="videoTimeLimit">Time limit (seconds)</string>
+    <string name="recordInProgress">Recording in progress ...</string>
+    <string name="record_done">Recording has been done</string>
+    <string name="recordError">An error occurred while recording.</string>
+    <string name="record_notification_title">Screen record in progress.</string>
+    <string name="playVideo">Play video</string>
+    <string name="playAnotherVideo">Play another video</string>
+    <string name="recordsHistory">history</string>
+</resources>
